@@ -1,0 +1,11 @@
+{
+    "name": "Doctor Mole",
+    "version": "1.0.0",
+    "description": "La información de las moleculas al alcance de tu mano",
+    "manifest_version": 3,
+    "author": "Alexis Zárate",
+    "action": {
+        "default_popup": "miprimerAPI.html",
+        "default_title": "Doctor Mole"
+    }
+}
